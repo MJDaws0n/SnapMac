@@ -22,6 +22,8 @@ Features ✨
 Installation 💾
 ---------------
 
+Download the release from the release tab, and just run the .dmg file. The other option is to manualy build the app, you can do that with the following steps.
+
 1.  Clone the repository:
 
     ```
